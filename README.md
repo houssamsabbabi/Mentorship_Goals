@@ -14,30 +14,30 @@ Mentorship Goals Needed To Finish
 
 ## JavaScript
 
-- [ ] DOM
-- [ ] Higher Order Functions
-- [ ] Destructuring
-- [ ] Scope
-- [ ] Local Storage
-- [ ] Object Oriented Programming
-- [ ] Prototype
-- [ ] JSON
-- [ ] AJAX
-- [ ] Promises
+- [X] DOM
+- [X] Higher Order Functions
+- [X] Destructuring
+- [X] Scope
+- [X] Local Storage
+- [X] Object Oriented Programming
+- [X] Prototype
+- [X] JSON
+- [X] AJAX
+- [X] Promises
 
 ## Tools 
 
-- [ ] Lighthouse
-- [ ] Google Developer Tools
-- [ ] Git And Github
-- [ ] Terminal And Commands
+- [X] Lighthouse
+- [X] Google Developer Tools
+- [X] Git And Github
+- [X] Terminal And Commands
 
 ## Problem Solving And Challenges
 
 ### Codewars 300 Very Easy And Easy Problems
 
-- [ ] 50
-- [ ] 50
+- [X] 50
+- [X] 50
 - [ ] 50
 - [ ] 50
 - [ ] 50
@@ -59,16 +59,16 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ ] Template 1 [HTML + CSS]
-- [ ] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
-- [ ] Template 4 [HTML + CSS + JS]
+- [X] Template 1 [HTML + CSS]
+- [X] Template 2 [HTML + CSS]
+- [X] Template 3 [HTML + CSS]
+- [X] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
 ## Portofolio
 
 - [ ] Your Website
-- [ ] Github Profile
+- [X] Github Profile
 - [ ] Linkedin Profile => [LinkedIn Useful Video](https://www.youtube.com/watch?v=7JysIkTyccs)
 - [ ] Resume
 
